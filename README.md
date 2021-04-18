@@ -1,3 +1,13 @@
+##### A mashup of https://kunal.sh/blog/building-a-fullstack-twitter-clone and https://www.sitepoint.com/nextjs-prisma-twitter-clone/
+
+Tech used:
+
+- Next.js (React framework)
+- NextAuth.js (authorization via Google)
+- Prisma (db ORM)
+- SWR (data fetching and mutating)
+- Chakra UI (styling)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
